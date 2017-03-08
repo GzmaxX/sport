@@ -15,6 +15,7 @@ import com.amap.api.maps2d.MapView;
 import com.amap.api.maps2d.model.BitmapDescriptorFactory;
 import com.amap.api.maps2d.model.MyLocationStyle;
 
+//mjmj
 public class MainActivity extends Activity implements LocationSource,
         AMapLocationListener {
     private AMap aMap;
